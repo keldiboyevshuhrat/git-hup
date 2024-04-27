@@ -1,0 +1,66 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    width: 1024px;
+    height: auto;
+    margin: auto;
+
+
+
+
+    >.shuhrat-branch-header-qismi-1div {
+        width: 1024px;
+        height: 130px;
+        border: 2px solid black;
+        position: relative;
+
+
+        >img {
+            width: 1024px;
+            height: 130px;
+            position: absolute;
+            z-index: -1;
+        }
+
+
+
+        >.shuhrat-branch-header-qismi-div {
+            width: 800px;
+            height: auto;
+            /* border: 2px solid white; */
+            display: flex;
+            justify-content: space-between;
+            padding-top: 40px;
+            padding-left: 120px;
+
+
+            >h1 {
+                color: rgb(255, 255, 255);
+                font-size: 30px;
+                font-weight: 800;
+                font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            }
+
+            >div>button{
+                width: 50px;
+                height: 30px;
+                border-radius: 100px;
+                background-color: blue;
+                color: black;
+
+            }
+            >div>button:active{
+                background-color: rgb(93, 96, 241);
+                color: rgb(255, 0, 0);
+            }
+
+
+
+        }
+    }
+
+
+}
