@@ -1,0 +1,44 @@
+.alishan-4th-page-header-container {
+    width: 1111px;
+    height: 32px;
+    margin: auto;
+}
+
+.alishan-4th-page-navbar {
+    width: 1111px;
+    height: 32px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.alishan-4th-page-navbar-pages {
+    width: 314px;
+    height: 32px;
+}
+
+.alishan-4th-page-navbar-pages li {
+    font-weight: 400;
+    font-size: 12px;
+    letter-spacing: 2px;
+    list-style: none;
+}
+
+.alishan-4th-page-navbar-pages ul {
+    width: 314px;
+    height: 32px;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.alishan-4th-page-main-container {
+    width: 1150px;
+    height: 2250px;
+    margin: auto;
+    margin-top: 94px;
+}
+
+.alishan-4th-page-bookmark-project-backround-img {
+   width: 1110px;
+   margin: auto;
+}
