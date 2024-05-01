@@ -13,6 +13,8 @@ function onclickfunction1(e) {
     // body.background.color = `${e}`
 
     body.style.background = `${e}`
+  
+
 
     // console.log(e);
 }
